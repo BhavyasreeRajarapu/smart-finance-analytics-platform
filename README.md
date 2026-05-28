@@ -42,3 +42,38 @@ Report Export
 Notification System
 ## Author
 Bhavyasree
+## Development Roadmap
+
+### Phase 1 - Project Setup
+
+* Repository initialization
+* Backend & frontend structure setup
+* Docker environment configuration
+
+### Phase 2 - Backend Development
+
+* Spring Boot project setup
+* Database configuration
+* JWT authentication & authorization
+* REST API implementation
+
+### Phase 3 - Frontend Development
+
+* React application setup
+* Authentication pages
+* Dashboard UI
+* Expense & budget management interfaces
+
+### Phase 4 - Analytics & Visualization
+
+* Expense analytics dashboard
+* Monthly budget insights
+* Graphs & reports
+
+### Phase 5 - Deployment
+
+* Docker containerization
+* Docker Compose setup
+* Cloud deployment
+* Performance optimization
+
